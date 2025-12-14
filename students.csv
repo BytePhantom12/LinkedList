@@ -1,5 +1,9 @@
 name,course,credit,grade,CGPA
+<<<<<<< HEAD
 Oliver Smith,CS101,3,92.5,3.85
+=======
+line
+>>>>>>> 95d5a11735a8c52ad07e1d2fed8f23f507266e77
 Liam Johnson,CS102,4,87.0,3.60
 Sophia Williams,CS103,2,78.5,3.15
 Noah Brown,CS201,3,95.0,4.00
@@ -22,3 +26,4 @@ Elijah Clark,CS411,4,88.0,3.70
 Sofia Rodriguez,CS412,3,77.5,3.10
 
 Henry Lewis,CS413,2,83.0,3.40
+
